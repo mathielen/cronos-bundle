@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "mybuilder/cronos": "~1.0",
+        "mybuilder/cronos": "dev-master",
         "doctrine/annotations": "1.*",
         "symfony/console": "~2.2|~3.0",
         "symfony/framework-bundle": "~2.2|~3.0",
